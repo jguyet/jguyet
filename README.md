@@ -34,6 +34,4 @@ In my early days i have always spent a lot of time documenting new technology, a
 
 #### <img align="left" alt="" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Networking_-_The_Noun_Project.svg/240px-Networking_-_The_Noun_Project.svg.png" /> &nbsp; Socials
 
-[https://www.linkedin.com/in/jeremy-guyet-36aaa3122 <img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jeremy-guyet-36aaa3122)   
-[https://instagram.com/jeremyguyet <img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/jeremyguyet)  
-[https://jguyet.github.io/en/portfolio <img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/superuser.svg" />](https://jguyet.github.io/en/portfolio)  
+[<img alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jeremy-guyet-36aaa3122) [<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/jeremyguyet) [<img alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/superuser.svg" />](https://jguyet.github.io/en/portfolio)  

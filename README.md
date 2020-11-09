@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 Developper since 2012 i learned self-taught and with 3 years of training at school 42 in Paris, I am passionate about software and web programming.  
   
 In my early days i have always spent a lot of time documenting new technology, and i'm always trying to find ideas or tips to optimize and refine my work.
-
+<!--
 ### <img align="left" alt="" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Octicons-repo.svg/450px-Octicons-repo.svg.png" /> &nbsp; Important projects
 
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=fosfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img  src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jiji-cli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img  src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=node-network-clustering&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jguyet.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /> -->
 
 <!--

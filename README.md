@@ -25,8 +25,7 @@ In my early days i have always spent a lot of time documenting new technology, a
 
 ### <img align="left" alt="" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Octicons-repo.svg/450px-Octicons-repo.svg.png" /> &nbsp; Important projects
 
-<img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=fosfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-<img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jiji-cli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=fosfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jiji-cli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 <img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=node-network-clustering&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 <img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jguyet.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 

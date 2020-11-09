@@ -25,10 +25,12 @@ In my early days i have always spent a lot of time documenting new technology, a
 
 ### <img align="left" alt="" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Octicons-repo.svg/450px-Octicons-repo.svg.png" /> &nbsp; Important projects
 
-<img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=fosfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jiji-cli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=node-network-clustering&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img alt="alelievr's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jguyet.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+<!--
+<img src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=fosfo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img  src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jiji-cli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img  src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=node-network-clustering&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /><img src="https://github-readme-stats.vercel.app/api/pin?username=jguyet&repo=jguyet.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" /> -->
 
+<!--
 ### <img align="left" alt="" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /> &nbsp; My Github Stats
-<img alt="alelievr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jguyet&show_icons=true&hide_border=false&hide_title=true&hide_rank=false&include_all_commits=true&bg_color=000000&title_color=fff&text_color=fff" /> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguyet&layout=compact&hide=TSQL,C&bg_color=000000&title_color=fff&text_color=fff" />
+<img src="https://github-readme-stats.codestackr.vercel.app/api?username=jguyet&show_icons=true&hide_border=false&hide_title=true&hide_rank=false&include_all_commits=true&bg_color=000000&title_color=fff&text_color=fff" /> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguyet&layout=compact&hide=TSQL,C&bg_color=000000&title_color=fff&text_color=fff" /> -->
 
 #### <img align="left" alt="" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Networking_-_The_Noun_Project.svg/240px-Networking_-_The_Noun_Project.svg.png" /> &nbsp; Socials
 

@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 -->
 
-Developper since 2012 i learned self-taught and with 3 years of training at school 42 in Paris, I am passionate about software and web programming.  
+Developper since 2012 i learned self-taught and with 3 years of training at school 42 in Paris, I am passionate about software, web programming and blockchain techs.  
   
-In my early days i have always spent a lot of time documenting new technology, and i'm always trying to find ideas or tips to optimize and refine my work.
+In my early days i have always spent a lot of time documenting new technologies, and i'm always trying to find ideas or tips to optimize and refine my work.
 <!--
 ### <img align="left" alt="" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Octicons-repo.svg/450px-Octicons-repo.svg.png" /> &nbsp; Important projects
 
